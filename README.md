@@ -21,9 +21,6 @@ You'll need a C compiler and the ncurses library installed on your system. Then 
 
 
 ### 🐧 Linux or  🍎 macOS
-```
-
-
 
 ```bash
 # Make the install script executable
