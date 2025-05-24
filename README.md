@@ -147,6 +147,8 @@ The editor automatically detects syntax highlighting based on file extensions:
 - ⚙️ **C/C++** - `.c`, `.cpp`
 - 🐍 **Python** - `.py`
 
+But for regural editing you can use any file type.
+
 ## ⌨️ Keybindings
 
 ### 📝 Basic Editing
